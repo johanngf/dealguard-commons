@@ -4,8 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gfinnovation.dealguard.commons</groupId>
-    <artifactId>dealguard-commons</artifactId>
+    <groupId>com.gfinnovation.dealguard</groupId>
+    <artifactId>commons</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
